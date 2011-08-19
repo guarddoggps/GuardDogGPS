@@ -1,0 +1,233 @@
+body {
+	margin:0;
+	padding:0;
+	font-size:12px;
+	font-family:Arial, Verdana, Helvetica, Sans-serif;
+	text-align:center;
+	background:#e7e7e7;}
+	
+a, a:visited, a:active {outline-style:none;}
+#body a {text-decoration:none;}
+#body a:hover {text-decoration:underline;}
+
+img {border:none !important;}
+
+#body .end {border-right:none !important;}
+
+.clear {clear:both;}
+	
+#page_wrapper {
+
+}
+
+#menucontainer{
+height: 35px;
+top: 157px;
+display:inline-block;
+
+}
+
+/* ############################### HEADER ############################### */
+#header {
+	width:945px;
+	height:180px;
+	margin:0 auto;
+	padding:0;
+	text-align:left;
+	background-color: #ffffff;
+	-moz-box-shadow: 0px 0px 5px 5px #cccccc;
+	-webkit-box-shadow: 0px 0px 5px 5px#cccccc;
+	box-shadow: 0px 0px 5px 5px #cccccc;
+	behavior: url(js/PIE.htc);
+	
+	}
+	
+#header div#display_homepage_title {
+	width:550px;
+	height:45px;
+	margin:50px 0 0 40px;
+	padding:0px;
+	float:left;}
+
+#header div#display_homepage_title a {
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	text-align:left;
+	display:block;
+	text-indent:-9999px;
+	color:#fff;}
+
+#header div a#homepage_title {
+	text-indent:0px;
+	font:29px/46px "Century Gothic", Arial, Helvetica, sans-serif;
+	background:none;}
+
+#logo{
+width:350px;
+height: 103px;
+float: left;
+margin-left: 32px;
+margin-top: 35px;
+margin-bottom: 20px;
+background: none;
+display:inline;
+}
+
+.slogan{
+width: 235px;
+height: 41px;
+float:right;
+margin-top: 38px;
+margin-right: 32px;
+}
+	
+/* ############################### SEARCH BOX */
+#display_search_wrapper {margin:53px 18px 0 0; padding:0; float:right;}
+	
+#display_search {margin:0; padding:0;}
+	
+#display_search_wrapper input {
+	margin:0 11px 0 0;
+	padding:7px 8px 4px;
+	width:160px;
+	font-size:12px;
+	color:#666;
+	border:none;
+	background:url(../images/template/search_bg.gif) left no-repeat;}
+	
+#display_search_wrapper input.empty{}
+
+#display_search_wrapper img {margin:3px 0 0; padding:0;}
+
+/* ############################### SITE TOOLS */
+#site_tools {
+	margin:20px 12px 0 0;
+	padding:0;
+	width:512px;
+	color:#fff;
+	text-align:center;
+	float:right;}
+
+#site_tools ul {margin:0; padding:0; list-style:none;}
+#site_tools ul li {
+	margin:0;
+	padding:0;
+	width:128px; height:40px;
+	float:left;}
+
+#site_tools a {
+	padding:12px 0 13px;
+	font-size:12px;
+	color:#fff;
+	letter-spacing:0.1em;
+	text-transform:uppercase;
+	background:url(../images/template/tools_bg.gif) bottom no-repeat;
+	display:block;}
+	
+#site_tools a:hover {text-decoration:none; background:url(../images/template/tools_bg.gif) top no-repeat;}
+
+/* ############################### TOP NAVIGATION ############################### */
+#top_nav {
+	margin:0 auto;
+	padding:0;
+	width:945px;
+	height:50px;
+	text-align:center;
+	background:url(../images/template/top_nav_bg.gif) repeat-x;}
+
+/* ############################### CONTENT ############################### */
+#content {
+	margin:0 auto;
+	padding:0;
+width:945px;
+	text-align:left;
+    -moz-box-shadow: 0px 0px 5px 5px #cccccc;
+	-webkit-box-shadow: 0px 0px 5px 5px#cccccc;
+	box-shadow: 0px 0px 5px 5px #cccccc;
+	behavior: url(js/PIE.htc);}
+	
+#content_area {
+	margin:0 auto;
+	padding:32px 32px;
+	width:980px;
+	text-align:left;
+	background:#fff;}
+
+#content #content_area table{text-align:left;}
+
+#homepage {}
+#homepage img{}
+#homepage a{}
+#homepage div{}
+#homepage p{}
+
+/* ############################### FOOTER ############################### */
+.footer{
+	width: 945px;
+	height: 50px;
+	position:absolute;
+	left: 50%;
+	margin-left: -472px;
+	margin-top:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#7f7f7f;
+text-align: left;
+}
+
+#socialmedia{
+width: auto;
+height: 50px;
+float:right;
+display: inline;
+}
+#linkcontainer{
+	width: 244px;
+	float: left;
+}
+
+/* ############################### FOOTER TOP */
+#footer_top {margin:0; padding:20px 20px 0; height:122px; letter-spacing:0.04em;}
+	
+#footer_top ul {margin:0; padding:0; width:145px; text-align:left; line-height:16pt; list-style:none; float:left;}
+#footer_top ul li {margin:0; padding:0;}
+	
+#footer_top ul li.title {color:#75d1fe;}
+	
+#footer_top ul li a {color:#fff;}
+#footer_top ul li a:hover {color:#75d1fe;}
+
+/* MAILING LIST */
+#eList {margin:0; padding:0; width:165px; font-size:13px; color:#75d1fe; text-align:center; float:left;}
+	
+#eList p {padding:0; margin:0 0 10px;}
+	
+#elist_field {
+	padding:4px 8px;
+	margin:0 0 10px;
+	width:147px;
+	font-size:12px;
+	color:#666;
+	border:none;
+	background:url(../images/template/mail_bg.gif) left no-repeat;}
+
+#elist_field.empty{}
+
+#elist_btn {padding:0; margin:0;}
+
+/* ############################### FOOTER BOTTOM */
+#footer_bottom {margin:0; padding:15px 20px; color:#a29f9f; text-align:left; letter-spacing:0.04em;}
+
+#footer_bottom p {margin:0; padding:0; line-height:14pt;}
+
+#footer_bottom a {color:#a29f9f;}
+#footer_bottom a:hover {color:#75d1fe;}
+
+/* ############################### WINTER 2009 FIXES ############################### */
+.next_page_img{width:auto !important; height:auto !important;}
+.previous_page_img{width:auto !important; height:auto !important;}
+.soft_add_content_area span, .quantity{color:#000;}
+
+.qe_toolbar_ovr, .soft_add_wrapper {z-index:9999 !important;}
