@@ -10,7 +10,7 @@ $(document).ready(
 					button_margin:5,
 					auto_start:true,
 					delay:2500,
-					play_once:false,
+					play_once:true,
 					transition:"fade",
 					transition_speed:800,
 					auto_center:true,
