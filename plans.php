@@ -12,7 +12,7 @@
 <body>
 <div id="container">
   <?php include("include/header.inc"); ?>
-    <div class="halbanner"></div>
+  <div class="halbanner"></div>
  <div id="pagedescription2">
 <h3><br />
   <br />
