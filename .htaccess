@@ -1,5 +1,5 @@
 
-RewriteEngine on
+#RewriteEngine on
 
 # These are the rewriting rules. 
 #
@@ -11,20 +11,20 @@ RewriteEngine on
 # 
 # Hopefully this should get you started.
 #
-RewriteRule   ^autotrac/?$	autotrac.html
-RewriteRule   ^fleettrac/?$     fleettrac.html
-RewriteRule   ^mototrac/?$      mototrac.html
-RewriteRule   ^marinetrac/?$    marinetrac.html
-RewriteRule   ^faq/?$    	faq.html
-RewriteRule   ^contact/?$    	contact.html
-RewriteRule   ^home/?$    	index.html
-RewriteRule   ^testimonials/?$ 	testimonials.html
-RewriteRule   ^about/?$    	about.html
-RewriteRule   ^plans/?$    	plans.html
-RewriteRule   ^privacy/?$    	privacy.html
-RewriteRule   ^helpcenter/?$    manual.html
-RewriteRule   ^products/?$      products.html
-RewriteRule   ^news/?$		news.html
+#RewriteRule   ^autotrac/?$	autotrac.html
+#RewriteRule   ^fleettrac/?$     fleettrac.html
+#RewriteRule   ^mototrac/?$      mototrac.html
+#RewriteRule   ^marinetrac/?$    marinetrac.html
+#RewriteRule   ^faq/?$    	faq.html
+#RewriteRule   ^contact/?$    	contact.html
+#RewriteRule   ^home/?$    	index.html
+#RewriteRule   ^testimonials/?$ 	testimonials.html
+#RewriteRule   ^about/?$    	about.html
+#RewriteRule   ^plans/?$    	plans.html
+#RewriteRule   ^privacy/?$    	privacy.html
+#RewriteRule   ^helpcenter/?$    manual.html
+#RewriteRule   ^products/?$      products.html
+#RewriteRule   ^news/?$		news.html
 
 <files .gitignore>
   order allow,deny
