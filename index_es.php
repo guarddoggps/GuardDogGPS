@@ -79,7 +79,7 @@ function MM_swapImage() { //v3.0
               <img src="images/signal.gif" alt="wave" width="25" height="20" border="0"/>
               <br />
             </a>
-            <span class="featuresboxes">Automobile Tracking</span>
+            <span class="featuresboxes">Rastreo de coches</span>
           </p>
         </td>
         <td width="236">
@@ -89,7 +89,7 @@ function MM_swapImage() { //v3.0
               <img src="images/signal.gif" alt="wave" width="25" height="20" border="0"/>
             </a>
             <br />
-            <span class="featuresboxes">Commercial Fleet Tracking</span>
+            <span class="featuresboxes">Rastreo de flotas comerciales</span>
           </p>
         </td>
         <td width="235">
@@ -99,7 +99,7 @@ function MM_swapImage() { //v3.0
               <img src="images/signal.gif" alt="wave" width="25" height="20" border="0"/>
               <br />
             </a>
-            <span class="featuresboxes">Motorcycle Tracking</span>
+            <span class="featuresboxes">Rastreo de motocicletas</span>
           </p>
         </td>
         <td width="237">
@@ -108,26 +108,26 @@ function MM_swapImage() { //v3.0
             <img src="images/signal.gif" alt="wave" width="25" height="20" border="0"/>
           </a>
           <br/>
-          <span class="featuresboxes">Boat &amp; Watercraft Tracking</span>
+          <span class="featuresboxes">Rastreo de embarcaciones y otros acuáticos</span>
         </td>
       </tr>
       <tr>
         <td valign="top" id="autotracc">
-          <p class="textboxes">AutoTrac features the latest advances in satellite technology, and our industry-leading proprietary software, including our powerful <span class="textboxes_purple"><a href="autotrac.html">Theft</a></span><a href="autotrac.html"><span class="textboxes_purple"> Deterrence System</span></a>, and <span class="textboxes_purple"><a href="autotrac.html">Virtual Fence</a></span><a href="autotrac.html"><span class="textboxes_orange">.</span></a> Our affordable annual or monthly airtime service plans are the lowest you will find available. <span class="textboxes_purple"><a href="autotrac.html">Flat rate. No Hidden Fees. Unlimited Dynamic Reporting</a></span> up to every 3 seconds.
+          <p class="textboxes">AutoTrac cuenta con los últimos avances en tecnología satelital, así como nuestro software patentado líder en la industria, que incluye nuestro poderoso <span class="textboxes_purple"><a href="autotrac">Sistema Disuasivo de robo</a></span> y <span class="textboxes_purple"><a href="autotrac">Cerca virtual</a></span>. Nuestros económicos planes de servicio de tiempo aire anuales o mensuales son los más bajos que encontrará. <span class="textboxes_purple"><a href="autotrac">Tarifa plana. Sin cargos ocultos. Con Informes dinámicos ilimitados</a></span> de hasta cada 3 segundos.
           </p>
           <p></p>
         </td>
         <td valign="top" id="fleettrac">
-          <p><span  class="textboxes">Whatever the size of your fleet, installing an inexpensive Guard Dog FleetTrac® tracking and security device will improve your operations and help achieve substantial, quantifiable <span class="textboxes_green"><a href="fleettrac.html">bottom-line saving</a>s.</span> Track employee driving habits using our <span class="textboxes_green"><a href="fleettrac.html">Speed Alert</a></span> functionality. You willl save money as well with our <span class="textboxes_green"><a href="plans.html">low-cost annual airtime plans</a></span> with unlimited phone / web usage and <span class="textboxes_green"><a href="fleettrac.html">Dynamic Reporting.</a></span></span>
+          <p class="textboxes">Sin importar el tamaño de su flota, al instalar un económico dispositivo rastreador Guard Dog FleetTrac® de seguridad, usted mejorará sus operaciones y ayudará a alcanzar <span class="textboxes_green"><a href="fleettrac">importantes ahorros netos</a></span> cuantificables. Dele seguimiento a los hábitos de manejo de sus empleados, utilizando nuestra función de <span class="textboxes_green"><a href="fleettrac">Alerta de velocidad</a></span>. Usted también ahorrará dinero con nuestros económicos <span class="textboxes_green"><a href="fleettrac">planes de tiempo aire anuales</a></span> de uso ilimitado por teléfono e Internet y los Informes dinámicos.
           </p>
         </td>
         <td valign="top" id="mototrac">
-          <p><span class="textboxes"> The  industry’s highest quality, inexpensive tracking and security device available. MotoTrac features the latest advances in satellite technology, and our industry-leading proprietary software, including our powerful <span class="textboxes_orange"><a href="mototrac.html">Anti-theft Security System</a></span>,<span class="textboxes_orange"> <a href="mototrac.html">Instant Accident Notification</a></span>, and <span class="textboxes_orange"><a href="mototrac.html">Vibration Alert</a>.</span> Enjoy our annual or monthly service plan with <a href="mototrac.html"><span class="textboxes_orange">No  Extra Charges</span>.</a></span>
+          <p class="textboxes">El dispositivo de rastreo y seguridad de más alta calidad que hay en la industria: MotoTrac cuenta con los últimos avances en tecnología satelital, además de nuestro software patentado, líder en la industria, que incluye nuestro poderoso <span class="textboxes_orange"><a href="mototrac">Sistema de seguridad Antirrobo</a></span>, <span class="textboxes_orange"><a href="mototrac">Notificación de accidente instantánea</a></span> y <span class="textboxes_orange"><a href="mototrac">Alerta vibratoria</a></span>. Disfrute de nuestro plan de servicio anual o mensual <span class="textboxes_orange"><a href="mototrac">sin cargos extras</a></span>.
           </p>
           <p>&nbsp;</p>
         </td>
         <td valign="top" id="marinetrac">
-          <p><span class="textboxes">Easy to use, Guard Dog MarineTrac safety and security features includes a <span class="textboxes_blue"><a href="marinetrac.html">Dock/storage Fence</a></span> to alert you if the craft is being moved without authorization, as well as a powerful<span class="textboxes_blue"> <a href="marinetrac.html">Integrated Battery Backup</a></span><a href="marinetrac.html">.</a> Position, speed and direction are just a few of the robust tracking functions reported in real time to handheld devices or computers. Everything with a <span class="textboxes_blue"><a href="plans.html">low-cost annual or monthly airtime service plans.</a></span></span>
+          <p class="textboxes">Fáciles de usar: las características de salvaguarda y seguridad de Guard Dog MarineTrac incluyen una <span class="textboxes_blue"><a href="marinetrac">Cerca virtual de muelle/almacén</a></span> para alertarle si la embarcación está siendo movida sin autorización, así como con un poderoso <span class="textboxes_blue"><a href="marinetrac">Respaldo con batería integrado</a></span>. La posición, velocidad y dirección son sólo unas cuantas de las robustas funciones de rastreo que son informadas en tiempo real a dispositivos portátiles o a PC. Todo esto con <span class="textboxes_blue"><a href="marinetrac">planes de servicio de tiempo aire anuales económicos o mensuales</a></span>.
           </p>
           <p>&nbsp;</p>
         </td>
@@ -159,5 +159,5 @@ function MM_swapImage() { //v3.0
   </table>
   <br /><br />
 </div>
-<?php include("include/footer.inc"); ?>
+<?php include("include/footer_es.inc"); ?>
 </html>

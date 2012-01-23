@@ -497,15 +497,15 @@ padding-right: 5px;}
 	color: #800080;
 	font-weight: bold;
 }
-#container table tr #fleettrac p .textboxes .textboxes_green a {
+#container table tr #fleettrac .textboxes .textboxes_green a {
 	font-weight: bold;
 	color: #75A532;
 }
-#container table tr #mototrac p .textboxes .textboxes_orange a {
+#container table tr #mototrac .textboxes .textboxes_orange a {
 	font-weight: bold;
 	color: #FA592D;
 }
-#container table tr #marinetrac p .textboxes .textboxes_blue a {
+#container table tr #marinetrac .textboxes .textboxes_blue a {
 	font-weight: bold;
 	color: #00AEEF;
 }

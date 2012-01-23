@@ -1,4 +1,3 @@
-<title>Guard Dog GPS Tracking &amp; Security<?php if($title) echo " - $title"; ?></title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="alexaVerifyID" content="nX6lOqfE4YUm99YzB7mhgvC5_gA" />
 <meta name="robots" content="INDEX,FOLLOW" />
@@ -10,6 +9,7 @@
 
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
 <link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/wt-rotator.css" rel="stylesheet" type="text/css" />
 <link href="css/top-bar.css" rel="stylesheet" type="text/css" />
 
 <!--[if lt IE 9]>

@@ -4,26 +4,21 @@
       <div class="footer-col1-menu">
         <div class="footer-menu">
           <ul>
-            <li><a href="/testimonials">testimonials</a></li>
-            <li><a href="/helpcenter">support</a></li>
-            <li><a href="/contact">contact</a></li>
-            <li><a href="#">site map</a></li>
+            <li><a href="/testimonials">testimonios</a></li>
+            <li><a href="/helpcenter">soporte</a></li>
+            <li><a href="/contact">contacto</a></li>
+            <li><a href="#">mapa del sitio</a></li>
           </ul>
         </div>
       </div>
       <div class="footer-col2-menu">
         <div class="footer-menu">
           <ul>
-            <li></li>
-            <li></li>
-            <li><a href="/about">about us</a></li>
+            <li><a href="/about">quienes somos</a></li>
             <li><a href="faq.html"></a><a href="#"></a></li>
             <li><a href="http://www.youtube.com/user/GuardDogGPS" title="YouTube Channel" target="_blank">videos</a></li>
-            <li></li>
-            <li></li>
-            <li><a href="http://store.guarddoggps.com">store</a></li>
-            <li><a href="/faq">faq</a></li>
-            <li><a href="contactus.html"></a></li>
+            <li><a href="http://store.guarddoggps.com">tienda</a></li>
+            <li><a href="/faq">pf (faq)</a></li>
           </ul>
         </div>
       </div>
@@ -59,7 +54,7 @@
       </p>
       <p class="footer-para">Suite 111<br />
         Fort Lauderdale, FL 33309<br />
-        Toll Free 1-888-572-4830
+        Número sin costo 1-888-572-4830
       </p>
       <p class="footer-para">
         <a href="mailto:info@GuardDogGPS.com">info@GuardDogGPS.com</a>
@@ -78,5 +73,5 @@
     <p>&nbsp;</p>
     <div class="clear"></div>
   </div>
-  <div class="copy-write" id="copyright">© 2011-2012 Guard Dog. All rights Reserved</div>
+  <div class="copy-write" id="copyright">© 2011-2012 Guard Dog. Todos los derechos reservados</div>
 </div>

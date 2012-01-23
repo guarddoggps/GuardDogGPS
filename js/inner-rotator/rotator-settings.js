@@ -4,12 +4,12 @@ $(document).ready(
 			function() {
 				$(".container").wtRotator({
 					width:945,
-					height:350,
+					height:233,
 					button_width:24,
 					button_height:24,
 					button_margin:5,
 					auto_start:true,
-					delay:5000,
+					delay:2500,
 					play_once:false,
 					transition:"fade",
 					transition_speed:800,
@@ -21,7 +21,7 @@ $(document).ready(
 					display_thumbs:false,
 					display_dbuttons:false,
 					display_playbutton:false,
-					display_numbers:true,
+					display_numbers:false,
 					display_timer:false,
 					mouseover_pause:false,
 					cpanel_mouseover:false,

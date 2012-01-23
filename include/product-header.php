@@ -1,5 +1,4 @@
 
-<link href="css/wt-rotator.css" rel="stylesheet" type="text/css" />
 <link href="css/tabsstyle.css" rel="stylesheet" type="text/css" />
 <link href="css/table2.css" rel="stylesheet" type="text/css" />
 
@@ -9,10 +8,12 @@
 <script type="text/javascript" src="engine1/jquery.js"></script>
 <!-- End WOWSlider.com HEAD section -->
 
-<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" src="js/jquery.easing.1.3.min.js"></script>
-<script type="text/javascript" src="js/jquery.wt-rotator.min.js"></script>
-<script type="text/javascript" src="js/rotator-settings.js"></script>
+<link href="js/inner-rotator/wt-rotator.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="js/inner-rotator/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/inner-rotator/jquery.easing.1.3.min.js"></script>
+<script type="text/javascript" src="js/inner-rotator/jquery.wt-rotator.min.js"></script>
+<script type="text/javascript" src="js/inner-rotator/rotator-settings.js"></script>
 
 
 <script type="text/javascript">
