@@ -2,14 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-<?php 
+<?
   $title = 'About Us';
-  include("include/global-tags.inc");
+  require_once("parts/global-tags.php");
 ?>
 </head>
+
 <body>
+
 <div id="container">
-  <?php include("include/header.inc"); ?>
+  <? require_once('parts/header.php'); ?>
   <div class="halbanner">
   <img src="images/test-banner.jpg" alt="Guard Dog GPS factory"/></div>
   <div id="pagedescription">
@@ -55,6 +57,11 @@ Our in-house staff of designers, assemblers and programmers gives <a href="http:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
   </div>
+
 </div>
-<?php include("include/footer.inc"); ?>
+</div>
+
+<? require_once('parts/footer.php'); ?>
+
+</body>
 </html>

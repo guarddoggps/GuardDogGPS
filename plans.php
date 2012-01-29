@@ -4,14 +4,14 @@
 <head>
 <?php 
   $title = 'Plans';
-  include("include/global-tags.inc");
+  require_once("parts/global-tags.php");
 ?>
 
 <link href="css/table.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 <div id="container">
-  <?php include("include/header.inc"); ?>
+  <?php require_once("parts/header.php"); ?>
   <div class="halbanner"></div>
  <div id="pagedescription2">
 <h3><br />
@@ -76,5 +76,5 @@ All Guard Dog GPS Devices require activation and Airtime Plans. Plans are for un
 </table>
  </div>
 </div>
-<?php include("include/footer.inc"); ?>
+<?php require_once("parts/footer.php"); ?>
 </html>

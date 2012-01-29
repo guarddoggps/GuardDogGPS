@@ -2,17 +2,17 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-<?php 
+<?
   $title = 'Testimonials';
-  include("include/global-tags.inc");
+  require_once("parts/global-tags.php");
 ?>
-
-<style type="text/css"></style>
 </head>
+
 <body>
+
 <div id="container">
-  <?php include("include/header.inc"); ?>
-    <div class="halbanner">
+  <? require_once('parts/header.php'); ?>
+  <div class="halbanner">
   <img src="images/test-banner.jpg" alt="Guard Dog GPS factory"/></div>
   <div id="pagedescription">
   <div id="right">
@@ -37,7 +37,9 @@
     <p>&quot;AutoTrac has helped us keep a tighter control over my teen movements. Using your online software I was able to check on their normal routes, making sure they were getting to school, on time and without distractions. Speed control and virtual fence features were a deal breaker for us; we make sure both our kids respect speed limits, and they drive within our city line. Thank you Guard Dog GPS!&quot;<br />
       <em>-- Laura P.</em><em></em></p>
     <p>&nbsp;</p>
-    <p>&quot;Good afternoon, first of all, let me say that I purchased your unit, a little scared though about the hype, and have been more than pleasantly surprised and satisfied. Installation was a breeze. It took less than 45 minutes total. The directions were very accurate and thorough. As soon as I had it installed, I got on the computer and it worked exactly as it was described. Love the ease of use application with speed control, virtual fence, and remote control of my new new SUV. This Guard Dog GPS AutoTrac is a winner!!&quot;<br />
+    <p>&quot;Good afternoon, first of all, let me say that I purchased your unit, a little scared though about the hype, and have been more than pleasantly surprised and satisfied.
+Installation was a breeze. It took less than 45 minutes total. The directions were very accurate and thorough. As soon as I had it installed, I got on the computer and it worked exactly as it was described.
+Love the ease of use application with speed control, virtual fence, and remote control of my new new SUV. This Guard Dog GPS AutoTrac is a winner!!&quot;<br />
       <em>-- Blake R.</em></p>
     <p>&nbsp;</p>
     <p>&quot;When I purchased  my new Stingray 225, the dealer suggested me Guard Dog GPS MarineTrac. I was blown away by the online demo, and the price was really affordable. Now I have a peace of mind every time I dock my boat for a while.&quot;<br />
@@ -56,5 +58,8 @@
   </div>
   </div>
 </div>
-<?php include("include/footer.inc"); ?>
+
+<? require_once('parts/footer.php'); ?>
+
+</body>
 </html>

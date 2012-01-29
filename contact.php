@@ -2,16 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-<?php 
+<?
   $title = 'Contact Us';
-  include("include/global-tags.inc");
+  require_once("parts/global-tags.php");
 ?>
-
-<style type="text/css"></style>
 </head>
+
 <body>
+
 <div id="container">
-  <?php include("include/header.inc"); ?>
+  <? require_once('parts/header.php'); ?>
   <div class="halbanner">
   <img src="images/banner-contact.jpg" alt="Contact us"/></div>
   <div id="pagedescription">
@@ -49,5 +49,9 @@
     <small><a href="http://maps.google.com/maps?hl=en&amp;client=safari&amp;q=guard+dog+gps&amp;ie=UTF8&amp;t=m&amp;vpsrc=0&amp;cid=10503492654248614066&amp;ll=26.202578,-80.184402&amp;spn=0.023103,0.025749&amp;z=14&amp;iwloc=A&amp;source=embed" class="textboxes" style="color:#A7AAAD;text-align:right">View Larger Map</a></small> </div>
   </div>
  </div>
-<?php include("include/footer.inc"); ?>
+</div>
+
+<? require_once('parts/footer.php'); ?>
+
+</body>
 </html>

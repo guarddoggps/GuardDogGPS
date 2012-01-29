@@ -4,14 +4,14 @@
 <head>
 <?php 
   $title = 'Privacy';
-  include("include/global-tags.inc");
+  require_once("parts/global-tags.php");
 ?>
 
 <style type="text/css"></style>
 </head>
 <body>
 <div id="container">
-  <?php include("include/header.inc"); ?>
+  <?php require_once("parts/header.php"); ?>
     <div class="halbanner">
   <img src="images/banner-contact.jpg" alt="Privacy"/></div>
   <div id="pagedescription">
@@ -188,5 +188,5 @@
   </div>
   </div>
 </div>
-<?php include("include/footer.inc"); ?>
+<?php require_once("parts/footer.php"); ?>
 </html>

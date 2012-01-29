@@ -4,7 +4,7 @@
 <head>
 <title>Guard Dog GPS Tracking &amp; Security - Start></title>
 <?php 
-  include("include/global-tags.inc");
+  include("parts/global-tags.php");
 ?>
 
 <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
@@ -40,7 +40,7 @@ function MM_swapImage() { //v3.0
 </head>
 <body onload="MM_preloadImages('images/button-car-roll.gif','images/button-fleet-roll.gif','images/button-moto-roll.gif','images/button-marine-roll.gif')">
 <div id="container">
-  <?php include("include/header_es.inc"); ?>
+  <?php include("parts/header_es.php"); ?>
   <div class="banner">
     <div class="container">
       <div class="wt-rotator">
@@ -103,12 +103,14 @@ function MM_swapImage() { //v3.0
           </p>
         </td>
         <td width="237">
-          <a href="/marinetrac" class="link_logo">
-            <span id="textmarine">Marine</span>Trac<span id="registered"><sup>®</sup></span>
-            <img src="images/signal.gif" alt="wave" width="25" height="20" border="0"/>
-          </a>
-          <br/>
-          <span class="featuresboxes">Rastreo de embarcaciones y otros acuáticos</span>
+          <p>
+            <a href="/marinetrac" class="link_logo">
+              <span id="textmarine">Marine</span>Trac<span id="registered"><sup>®</sup></span>
+              <img src="images/signal.gif" alt="wave" width="25" height="20" border="0"/>
+              <br/>
+            </a>
+            <span class="featuresboxes">Rastreo de embarcaciones y otros acuáticos</span>
+          </p>
         </td>
       </tr>
       <tr>
@@ -159,5 +161,5 @@ function MM_swapImage() { //v3.0
   </table>
   <br /><br />
 </div>
-<?php include("include/footer_es.inc"); ?>
+<? include("parts/footer_es.php"); ?>
 </html>

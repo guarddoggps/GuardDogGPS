@@ -2,15 +2,17 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-<?php 
+<?
   $title = 'FAQ';
-  include("include/global-tags.inc");
+  require_once("parts/global-tags.php");
 ?>
 </head>
+
 <body>
+
 <div id="container">
-  <?php include("include/header.inc"); ?>
-    <div class="halbanner">
+  <? require_once('parts/header.php'); ?>
+  <div class="halbanner">
   <img src="images/banner-faq.jpg" alt="FAQ"/></div>
   <div id="pagedescription">
   <div id="right"><p><span id="textmoto">Why should I buy a Guard Dog GPS?</span><br />
@@ -99,5 +101,8 @@ Guard Dog GPS is a unique company. We have been designing, manufacturing and pro
   </div>
   </div>
 </div>
-<?php include("include/footer.inc"); ?>
+
+<? require_once('parts/footer.php'); ?>
+
+</body>
 </html>

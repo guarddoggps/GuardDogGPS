@@ -26,6 +26,10 @@
 #RewriteRule   ^products/?$      products.html
 #RewriteRule   ^news/?$		news.html
 
+RewriteEngine on
+RewriteCond $1 !^(index\.php|lib|images|robots\.txt|css|engine1|data1|js)
+RewriteRule ^(.*)$ index.php/$1 [L]
+
 <files .gitignore>
   order allow,deny
   deny from all

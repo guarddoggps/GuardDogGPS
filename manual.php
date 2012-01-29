@@ -4,14 +4,14 @@
 <head>
 <?php 
   $title = 'Manuals';
-  include("include/global-tags.inc");
+  require_once("parts/global-tags.php");
 ?>
 
 <style type="text/css"></style>
 </head>
 <body>
 <div id="container">
-  <?php include("include/header.inc"); ?>
+  <?php require_once("parts/header.php"); ?>
     <div class="halbanner">
   <img src="images/banner-manual.jpg" alt="Guard Dog GPS map" border="0"/></div>
 <div id="pagedescription">
@@ -170,5 +170,5 @@ Name the designated area<br />
   </p>
 </div></div>
 </div>
-<?php include("include/footer.inc"); ?>
+<?php require_once("parts/footer.php"); ?>
 </html>
